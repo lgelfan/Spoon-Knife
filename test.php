@@ -2,5 +2,6 @@
 
 echo 'hi';
 
-if (null === $foo) return false;
-
+if (null === $foo) {
+    return false;
+}
