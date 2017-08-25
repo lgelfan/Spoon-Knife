@@ -6,9 +6,10 @@ class test
     {
         echo 'hi';
         
- -if (null === $foo) 
- { return false; }
-            
+       if (null === $foo) 
+       {
+           return false; }
+
         return 2;
     }
 }
