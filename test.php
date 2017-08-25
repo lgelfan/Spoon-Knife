@@ -1,10 +1,9 @@
 <?php
 
-class Test
+class test
 {
-
-  private function _foo()
-  {
-   return 2;
-  }
+    private function _foo()
+    {
+        return 2;
+    }
 }
