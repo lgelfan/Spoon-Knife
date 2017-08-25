@@ -4,8 +4,8 @@ class test
 {
     private function _foo()
     {
-        echo 'hi';		 +class test
- -		 +{
+        echo 'hi';
+        
  -if (null === $foo) return false;
             
         return 2;
